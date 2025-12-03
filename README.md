@@ -1,6 +1,10 @@
 CHURN OFF – Customer Churn Prediction App
 CHURN OFF is an interactive Streamlit web application that predicts whether a bank customer is likely to churn based on their profile and account features. The app uses a trained TensorFlow model and standard preprocessing artifacts to generate real-time churn risk scores.​
 
+
+this is the website link 
+https://churnoff-dp3r94u74vk66qtz9fdybv.streamlit.app/
+
 Features
 📊 Real-time customer churn prediction using a trained TensorFlow model (churn_model.h5).​
 
