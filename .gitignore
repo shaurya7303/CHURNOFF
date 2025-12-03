@@ -1,0 +1,45 @@
+# -----------------------
+# Python
+# -----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+*.pyd
+
+
+# -----------------------
+# Virtual Environments
+# -----------------------
+venv/
+.venv/
+env/
+ENV/
+
+
+# -----------------------
+# Jupyter / IPython
+# -----------------------
+.ipynb_checkpoints/
+*.ipynb
+
+
+# -----------------------
+# Logs (General)
+# -----------------------
+*.log
+*.log.*
+*.out
+*.err
+logs/
+log/
+logging/
+debug.log
+error.log
+output.log
+
+# Tensor
